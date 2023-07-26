@@ -1,22 +1,22 @@
-### Hi! I am Cristian Nicolas Torres
+### Hi! My name is Cristian Nicolas Torres
 
 #### I attended a school with a humanistic orientation, which gave me great knowledge and the use of my soft skills. I studied Industrial Engineering at a technological university, which provides me with extensive knowledge about the market and the world of business. However, it wasn't in the industry where I wanted to thrive. I have decided to delve into the world of data science, and I feel like I have found what I have been searching for: where to apply all the knowledge I have gained throughout my life.
 
 ---
 ### Technical Skills
 
-![Python](https://img.shields.io/badge/Python-grey?logo=python&logoColor=white&labelColor=grey&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-grey?logo=sql&logoColor=white&labelColor=grey&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white&labelColor=grey&style=for-the-badge)
-![Hadoop](https://img.shields.io/badge/Hadoop-grey?logo=hadoop&logoColor=white&labelColor=grey&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-grey?logo=docker&logoColor=white&labelColor=grey&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas&logoColor=white&labelColor=grey&style=for-the-badge)
-![Numpy](https://img.shields.io/badge/Numpy-grey?logo=numpy&logoColor=white&labelColor=grey&style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib&logoColor=white&labelColor=grey&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-grey?logo=power-bi&logoColor=white&labelColor=grey&style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-grey?logo=amazon-aws&logoColor=white&labelColor=grey&style=for-the-badge)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&logoColor=white&labelColor=grey&style=for-the-badge)
-![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&logoColor=white&labelColor=grey&style=for-the-badge)
+[![Python](https://img.shields.io/badge/Python-grey?logo=python&style=for-the-badge&logoColor=blue)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-grey?logo=sql&style=for-the-badge)](https://www.sql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-grey?logo=hadoop&style=for-the-badge)](https://hadoop.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-grey?logo=docker&style=for-the-badge)](https://www.docker.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas&style=for-the-badge)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-grey?logo=numpy&style=for-the-badge)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib&style=for-the-badge)](https://matplotlib.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-grey?logo=power-bi&style=for-the-badge)](https://powerbi.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-grey?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/)
+[![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&style=for-the-badge)](https://randomforest.org/)
 
 ---
 ### Featured Projects
