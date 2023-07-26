@@ -17,7 +17,6 @@
 [![AWS](https://img.shields.io/badge/AWS-grey?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/)
 [![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&style=for-the-badge)](https://randomforest.org/)
-
 ---
 ### Featured Projects
 
