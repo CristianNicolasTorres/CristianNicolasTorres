@@ -1,27 +1,37 @@
-# ¡Hola! Soy Cristian Nicolas Torres
+### Hi! I am Cristian Nicolas Torres
 
-Asistí a un colegio con orientación humanista, lo que me dio un gran conocimiento y uso de mis habilidades blandas. Estudié en una universidad tecnológica, Ingeniería Industrial, lo que me brinda un conocimiento amplio sobre el mercado y el mundo de los negocios. Sin embargo, no era en la industria donde quería desenvolverme. He decidido adentrarme en el mundo de la ciencia de datos y siento que encontré lo que he estado buscando: dónde aplicar todos los conocimientos que he incorporado a lo largo de mi vida.
+#### I attended a school with a humanistic orientation, which gave me great knowledge and the use of my soft skills. I studied Industrial Engineering at a technological university, which provides me with extensive knowledge about the market and the world of business. However, it wasn't in the industry where I wanted to thrive. I have decided to delve into the world of data science, and I feel like I have found what I have been searching for: where to apply all the knowledge I have gained throughout my life.
 
-## Habilidades y Tecnologías
+---
+### Technical Skills
 
-- Lenguajes de Programación: Python, SQL
-- Bases de Datos: MySQL, Hadoop (NoSQL)
-- Herramientas: Docker
-- Análisis de Datos y Visualización:  Pandas, Numpy, Matplotlib, power BI, MySQL, AWS
-- Machine Learning: Scikit-learn, RandomForest
+[![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-orange?logo=sql&style=for-the-badge)](https://www.sql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=hadoop&style=for-the-badge)](https://hadoop.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)](https://www.docker.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas&style=for-the-badge)](https://pandas.pydata.org/)
+[![Numpy](https://img.shields.io/badge/Numpy-grey?logo=numpy&style=for-the-badge)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib&style=for-the-badge)](https://matplotlib.org/)
+[![Power BI](https://img.shields.io/badge/Power_BI-grey?logo=power-bi&style=for-the-badge)](https://powerbi.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/)
+[![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&style=for-the-badge)](https://randomforest.org/)
 
-## Proyectos Destacados
 
-En mis repositorios se encuentran los trabajos y practicas realizadas durante mi formacion, como por ejemplo sistemas de recomendacion de peliculas, tambien hemos realizado una pasantia para una empresa de Mexico que se ofrecia un sistema de scoring, mediante la implementacion de un modelo de ML entrenado que compara elingreso de la persona en cuestion con los ingresos promedios de los distintos estados y distintas variables mas y asi devuelve un puntaje.
+---
+### Featured Projects
 
+#### In my repositories, you can find the projects and practices carried out during my education, such as movie recommendation systems. Additionally, I completed an internship for a company in Mexico, where we developed a scoring system. This involved implementing a trained ML model that compares the income of a person with the average incomes of different states and various other variables, and then returns a score.
 
-## Contribución
+---
+### Contribution
 
-Estoy abierto a crontribuir en nuevos proyectos, con el fin de afianzar mis conocimientos y como siempre aprender más!
-Para contactarse les dejo mi mail que lo reviso a menudo o discord, espero invitaciones a participar!
+#### I am open to contributing to new projects to strengthen my skills and, as always, to learn more! To get in touch, you can reach me via email, which I check frequently, or on Discord. I'm looking forward to receiving invitations to participate!
 
-## Contacto
-Mail:
-torres.cristian.nicolas@gmail.com
-Discord:
-cristiannicolastorres
+---
+### Contact 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian%20Nicol%C3%A1s%20Torres-blue?logo=linkedin&style=for-the-badge&logoColor=blue)](https://www.linkedin.com/in/cristian-nicol%C3%A1s-torres-/)
+[![Email](https://img.shields.io/badge/Email-torres.cristian.nicolas%40gmail.com-red?logo=gmail&style=for-the-badge)](mailto:torres.cristian.nicolas@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-cristiannicolastorres-7289DA?logo=discord&style=for-the-badge)](https://discord.com/users/cristiannicolastorres)
