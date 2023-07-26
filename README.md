@@ -5,19 +5,18 @@
 ---
 ### Technical Skills
 
-[![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-orange?logo=sql&style=for-the-badge)](https://www.sql.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
-[![Hadoop](https://img.shields.io/badge/Hadoop-yellow?logo=hadoop&style=for-the-badge)](https://hadoop.apache.org/)
-[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge)](https://www.docker.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas&style=for-the-badge)](https://pandas.pydata.org/)
-[![Numpy](https://img.shields.io/badge/Numpy-grey?logo=numpy&style=for-the-badge)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib&style=for-the-badge)](https://matplotlib.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-grey?logo=power-bi&style=for-the-badge)](https://powerbi.microsoft.com/)
-[![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&style=for-the-badge)](https://aws.amazon.com/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&style=for-the-badge)](https://scikit-learn.org/)
-[![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&style=for-the-badge)](https://randomforest.org/)
-
+![Python](https://img.shields.io/badge/Python-grey?logo=python&logoColor=white&labelColor=grey&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-grey?logo=sql&logoColor=white&labelColor=grey&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-grey?logo=mysql&logoColor=white&labelColor=grey&style=for-the-badge)
+![Hadoop](https://img.shields.io/badge/Hadoop-grey?logo=hadoop&logoColor=white&labelColor=grey&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-grey?logo=docker&logoColor=white&labelColor=grey&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas&logoColor=white&labelColor=grey&style=for-the-badge)
+![Numpy](https://img.shields.io/badge/Numpy-grey?logo=numpy&logoColor=white&labelColor=grey&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?logo=matplotlib&logoColor=white&labelColor=grey&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-grey?logo=power-bi&logoColor=white&labelColor=grey&style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-grey?logo=amazon-aws&logoColor=white&labelColor=grey&style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-grey?logo=scikit-learn&logoColor=white&labelColor=grey&style=for-the-badge)
+![RandomForest](https://img.shields.io/badge/RandomForest-grey?logo=random-forest&logoColor=white&labelColor=grey&style=for-the-badge)
 
 ---
 ### Featured Projects
